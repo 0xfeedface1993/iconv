@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Ciconv",
+        "repositoryURL": "https://github.com/maclee99/Ciconv.git",
+        "state": {
+          "branch": null,
+          "revision": "b771ef1651909ac1cd2bb8e0a4711afa295a33ac",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
