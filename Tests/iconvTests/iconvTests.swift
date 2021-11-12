@@ -7,7 +7,7 @@
                 let i = try Iconv()
                 let bytes:[UInt8] =  [0xd6, 0xd0, 0xb9, 0xfa, 0x0a]
                 guard let cn = i.utf8(buf: bytes) else {
-                XCTFail("fault")
+                    XCTFail("fault")
                 return
                 }//end guard
                 print(cn)
