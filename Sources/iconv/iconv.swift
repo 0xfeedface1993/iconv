@@ -3,6 +3,7 @@
 //
 
 import Ciconv
+import Foundation
 
 /// class Iconv
 public class Iconv {
