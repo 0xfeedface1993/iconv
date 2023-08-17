@@ -1,16 +1,14 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "Ciconv",
-        "repositoryURL": "https://github.com/maclee99/Ciconv.git",
-        "state": {
-          "branch": null,
-          "revision": "b771ef1651909ac1cd2bb8e0a4711afa295a33ac",
-          "version": "0.0.1"
-        }
+  "pins" : [
+    {
+      "identity" : "ciconv",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xfeedface1993/Ciconv.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "340982897e6e29196a0860319d1bcc8a92e54db9"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 2
 }

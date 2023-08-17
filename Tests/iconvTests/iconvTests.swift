@@ -5,7 +5,7 @@
         func testExample() {
             do {
                 let i = try Iconv()
-                let bytes:[UInt8] =  [0xd6, 0xd0, 0xb9, 0xfa, 0x0a]
+                let bytes:[UInt8] =  [0xd6, 0xd0, 0xb9, 0xfa, 0x0a, 0x00]
                 guard let cn = i.utf8(buf: bytes) else {
                     XCTFail("fault")
                 return
